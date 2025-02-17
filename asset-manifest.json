@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nxtpush/static/css/main.e4ab2c1a.css",
+    "main.js": "/nxtpush/static/js/main.37a4d171.js",
+    "static/media/Handelson-Two.otf": "/nxtpush/static/media/Handelson-Two.ee2a063e0747388b38d2.otf",
+    "static/media/Frame2-Ornament Bottom.png": "/nxtpush/static/media/Frame2-Ornament Bottom.24a6affc02bda501a73c.png",
+    "static/media/Frame2-Ornament Top.png": "/nxtpush/static/media/Frame2-Ornament Top.e7aaa9a9b9dd6df77537.png",
+    "static/media/Gabarito-Regular.ttf": "/nxtpush/static/media/Gabarito-Regular.e7b92155d4c51ceea256.ttf",
+    "static/media/Gabarito-Black.ttf": "/nxtpush/static/media/Gabarito-Black.cfaa7a7826a88fef806e.ttf",
+    "static/media/Frame2-Rocket.png": "/nxtpush/static/media/Frame2-Rocket.4b97dae36345ec05b7c0.png",
+    "static/media/Frame1-Rocket.png": "/nxtpush/static/media/Frame1-Rocket.c03832d7bed2f2c55330.png",
+    "static/media/Frame2-Bell.png": "/nxtpush/static/media/Frame2-Bell.40fde488222b32f28072.png",
+    "static/media/Frame1-Bell.png": "/nxtpush/static/media/Frame1-Bell.994b47eeccba7b6e7507.png",
+    "static/media/Frame2-Slider Area.png": "/nxtpush/static/media/Frame2-Slider Area.684917a47cedb8067b3c.png",
+    "static/media/Frame2-Text Evolved.png": "/nxtpush/static/media/Frame2-Text Evolved.f73f48de2526103a0d6b.png",
+    "index.html": "/nxtpush/index.html",
+    "main.e4ab2c1a.css.map": "/nxtpush/static/css/main.e4ab2c1a.css.map",
+    "main.37a4d171.js.map": "/nxtpush/static/js/main.37a4d171.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4ab2c1a.css",
+    "static/js/main.37a4d171.js"
+  ]
+}
